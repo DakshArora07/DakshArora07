@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on new projects and assignments.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on new ideas.
-- 📫 How to reach me: email-daksharora005@gmail.com, discord-a.p.e.x
+- 📫 How to reach me: email- daksharora005@gmail.com, discord- a.p.e.x
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a techie and love playing online games, but my love for outdoor sports like cricket is irreplaceable.
 
