@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daksh
 - 👀 I’m interested in working on new projects and assignments.
-- 🌱 I’m currently learning Systems Programming and Artificial Intelligence models.
+- 🌱 I’m currently learning Systems Programming and Data Structures & Algorithms.
 - 💞️ I’m looking to collaborate on new ideas.
 - 📫 How to reach me: email- daksharora005@gmail.com, discord- a.p.e.x
 - 😄 Pronouns: He/Him
